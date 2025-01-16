@@ -1,1 +1,40 @@
-# delPick
+Overview
+This project automates the Add to Cart functionality for the DelPick platform using Selenium WebDriver, TestNG, and the Page Object Model (POM) in Java. It covers the process from location selection to OTP validation for checkout
+
+     Steps:
+
+
+Location Selection: Choose the starting location.
+
+Food Variety and Restaurant Selection: Filter food and select a restaurant.
+
+Food Item Selection: Add items to the cart.
+
+Customization: Handle food customization options.
+
+Checkout: Validate cart and enter the phone number.
+
+OTP Validation: Retrieve and verify OTP for order confirmation.
+
+     Framework Details:
+
+TestNG: Used for test execution and management.
+
+Page Object Model (POM): Organized pages with separate methods for better readability.
+
+OOP Principles: Implements method chaining for cleaner and scalable code.
+
+Note: Thread.sleep is used temporarily due to WebDriver limitations but will be replaced with explicit waits.
+
+
+    Prerequisites:
+Java Development Kit (JDK 8 or higher).
+
+Apache Maven for project dependency management.
+
+Selenium WebDriver (latest version).
+
+TestNG for test framework support.
+
+Web browser (e.g., Chrome, Firefox) and appropriate WebDriver executables.
+
