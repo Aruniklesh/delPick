@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-16T18:04:32 IST" name="Default suite" finished-at="2025-01-16T18:05:00 IST" duration-ms="27610">
+    <groups>
+    </groups>
+    <test started-at="2025-01-16T18:04:32 IST" name="Default test" finished-at="2025-01-16T18:05:00 IST" duration-ms="27610">
+      <class name="testcases.addToCart">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:testcases.addToCart@399f45b1]" started-at="2025-01-16T18:04:32 IST" name="preConditions" finished-at="2025-01-16T18:04:37 IST" duration-ms="4980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="run()[pri:0, instance:testcases.addToCart@399f45b1]" started-at="2025-01-16T18:04:37 IST" name="run" finished-at="2025-01-16T18:05:00 IST" duration-ms="22473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="postConditions()[pri:0, instance:testcases.addToCart@399f45b1]" started-at="2025-01-16T18:05:00 IST" name="postConditions" finished-at="2025-01-16T18:05:00 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- testcases.addToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
