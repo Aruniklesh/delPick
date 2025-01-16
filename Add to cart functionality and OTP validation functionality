@@ -2,7 +2,7 @@ Overview
 This project automates the Add to Cart functionality for the DelPick platform using Selenium WebDriver, TestNG, and the Page Object Model (POM) in Java. It covers the process from location selection to OTP validation for checkout
 
      Steps:
-
+-- Run addToCart.java--
 
 Location Selection: Choose the starting location.
 
